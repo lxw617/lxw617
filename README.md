@@ -26,6 +26,7 @@ I like front-end page design, so I learned PS and PR. I studied html, css and js
 *   ✉️  You can contact me at [sansan3330799@163.com](mailto:sansan3330799@163.com)
 *   🌱  I'm learning The process of the whole project from the beginning to the end, project design and analysis, architecture design, etc.
 *   ⚡  I like delicious food, beautiful scenery, love your family forever.
+*   😄  Starting from 2023, I will record my knowledge and provide a link: https://www.yuque.com/u25073312
 
 
 <a href="https://www.github.com/lxw617" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/lxw617?logo=github&style=for-the-badge&color=0891b2&labelColor=000000" /></a>
